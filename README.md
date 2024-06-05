@@ -1,34 +1,28 @@
+# Health Data Portfolio
 
-# Health-Data-Portfolio
-Data Scientist | Bioinformatician leveraging coding &amp; analytics to improve health outcomes (ex: COVID forecast on GitHub). Passionate about using data for positive healthcare impact (as highlighted by connections on LinkedIn). #HealthDataScience #PublicHealth
+Welcome to the Health Data Portfolio repository! Here, we showcase our journey in harnessing the power of data science to improve health outcomes. Explore our projects delving into various health domains:
 
-This repository showcases my data science journey, using code and analytics to improve health outcomes. Explore projects like:
+## Transforming Healthcare with Data Science 🫀🫁
 
-** COVID-19 Forecasting: **
-Predicting case trends & mortality rates (link to project folder).
-** Stroke Prediction:** 
-Building models to identify individuals at risk (link to project folder).
-*️* Diabetes Retinopathy Detection:** 
-Utilizing AI for early disease diagnosis (link to project folder).
-** Liver Cirrhosis Prediction:** 
-Identifying risk factors for liver disease (link to project folder).
-** Breast Cancer Detection:** 
-Exploring data analysis techniques for early detection (link to project folder). 
-** Whole Genome Analysis with Azure:** 
-Delving into the world of genomics (link to project folder).
+COVID-19 Forecasting: Predicting case trends & mortality rates ([covid-19-forecasting](link_to_covid-19-forecasting))
+Stroke Prediction: Building models to identify individuals at risk ([stroke-prediction](link_to_stroke-prediction))
+Diabetes Retinopathy Detection: Utilizing AI for early disease diagnosis ([diabetes-retinopathy-detection](link_to_diabetes-retinopathy-detection))
+Liver Cirrhosis Prediction: Identifying risk factors for liver disease ([liver-cirrhosis-prediction](link_to_liver-cirrhosis-prediction))
+Breast Cancer Detection: Exploring data analysis techniques for early detection ([breast-cancer-detection](link_to_breast-cancer-detection)) 🫁
+Whole Genome Analysis with Azure: Leveraging TB-GenomeExplorer for Mtb analysis ([whole-genome-analysis](link_to_whole-genome-analysis))
 
-Unveiling Insights:
+## Unveiling Insights:
 
-Each project delves into data acquisition, cleaning, analysis, and visualization to generate actionable insights for healthcare professionals.
+Each project delves into data acquisition, cleaning, analysis, and visualization, culminating in actionable insights for healthcare professionals.
 
-** Technical Expertise:**
+## Technical Expertise:
 
-Python, machine learning libraries, and data visualization tools fuel my exploration.
+Python, machine learning libraries, and data visualization tools fuel our exploration.
 
-** Connect & Collaborate:**
+## Connect & Collaborate:
 
-I'm always eager to learn and collaborate! Feel free to reach out or explore my other work on [LinkedIn Profile URL]([link to my LinkedIn profile](https://www.linkedin.com/in/r-eng-alumanda-shakankale/)).
+We're always eager to learn and collaborate! Feel free to reach out or explore our other work on [LinkedIn Profile URL]([link_to_your_LinkedIn_profile](https://www.linkedin.com/in/r-eng-alumanda-shakankale/)).
 
-** Stay Tuned:**
+## Stay Tuned:
 
 This portfolio is a living document, constantly evolving with new health data projects!
