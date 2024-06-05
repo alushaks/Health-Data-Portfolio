@@ -4,12 +4,13 @@ Data Scientist | Bioinformatician leveraging coding &amp; analytics to improve h
 
 This repository showcases my data science journey, using code and analytics to improve health outcomes. Explore projects like:
 
-COVID-19 Forecasting: Predicting case trends & mortality rates (link to project folder).
-Stroke Prediction: Building models to identify individuals at risk (link to project folder).
-️Diabetes Retinopathy Detection: Utilizing AI for early disease diagnosis (link to project folder).
-Liver Cirrhosis Prediction: Identifying risk factors for liver disease (link to project folder). 🫀
-Breast Cancer Detection: Exploring data analysis techniques for early detection (link to project folder). 🫁
-Whole Genome Analysis with Azure: Delving into the world of genomics (link to project folder).
+**COVID-19 Forecasting: Predicting case trends & mortality rates (link to project folder).**
+**Stroke Prediction: Building models to identify individuals at risk (link to project folder).**
+*️*Diabetes Retinopathy Detection: Utilizing AI for early disease diagnosis (link to project folder).**
+**Liver Cirrhosis Prediction: Identifying risk factors for liver disease (link to project folder).**
+**Breast Cancer Detection: Exploring data analysis techniques for early detection (link to project folder). **
+**Whole Genome Analysis with Azure: Delving into the world of genomics (link to project folder).**
+
 Unveiling Insights:
 
 Each project delves into data acquisition, cleaning, analysis, and visualization to generate actionable insights for healthcare professionals.
